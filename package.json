@@ -1,14 +1,17 @@
 {
-    "name": "",
+    "name": "express-profiler",
     "version": "v0.0.1",
-    "description": "",
-    "keywords": [],
+    "description": "profiler for express",
+    "keywords": ["profiler", "express"],
     "repository": { "type": "git", "url": "" },
-    "author": "",
+    "author": "Wong Liang Zan <zan@liangzan.net> (http://liangzan.net)",
     "engines": {
 	"node" : "~0.8",
 	"npm": "1"
     },
-    "dependencies": {},
+    "dependencies": {
+	"express": "~3.0.0rc3",
+	"microtime": "~0.3.0"
+    },
     "devDependencies": {}
 }
