@@ -1,3 +1,3 @@
-# Node.js Package Boilerplate
+# Express profiler talk for Singapore Node.js group
 
-This is a set of common files and directories that I always use for starting a Node.js project. Just git clone and change the files as needed.
+This repo contains files that I used for showing how to profile an [Express](http://expressjs.com) application.
